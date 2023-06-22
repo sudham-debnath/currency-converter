@@ -16,9 +16,9 @@ Different countries use different currencies, and there is daily variation in th
 
 - In this currency converter app, users are provided with an option to select the type of conversion, i.e. from “this” currency to “that” currency. This simple feature allows users to enter the amount to be converted (say currency in Dollars), and display the converted amount (say currency in euros).
 
-visit more projects - https://projectworlds.in
+Visit for more projects - https://projectworlds.in
 
-demo- https://www.projectworlds.in/java-projects-with-source-code/currency-converter-java-mini-project/
+Demo - https://www.projectworlds.in/java-projects-with-source-code/currency-converter-java-mini-project/
 
 
 
