@@ -32,4 +32,5 @@ Different countries use different currencies, and there is daily variation in th
 
 ### Visit for more projects - https://projectworlds.in
 
-#### Demo Project - https://www.projectworlds.in/java-projects-with-source-code/currency-converter-java-mini-project/
+#### Demo Project 1 - https://www.projectworlds.in/java-projects-with-source-code/currency-converter-java-mini-project/
+#### Demo Project 2 - https://www.geeksforgeeks.org/java-program-to-convert-currency-using-awt/
