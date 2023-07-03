@@ -22,13 +22,13 @@ Different countries use different currencies, and there is daily variation in th
 
 ### Output:
 
-1. The window displayed on running the program:
+#### 1. The window displayed on running the program:
    ![](https://media.geeksforgeeks.org/wp-content/uploads/20200430133116/Screenshot-2020-04-28-at-7.51.26-PM.png)
 
-2. Converting from INR to the Dollar, i.e., when the INR button is clicked:
+#### 2. Converting from INR to the Dollar, i.e., when the INR button is clicked:
    ![](https://media.geeksforgeeks.org/wp-content/uploads/20200430133144/Screenshot-2020-04-28-at-7.48.40-PM.png)
 
-3. Converting from the Dollar to INR, i.e., when the dollar button is clicked:
+#### 3. Converting from the Dollar to INR, i.e., when the dollar button is clicked:
    ![](https://media.geeksforgeeks.org/wp-content/uploads/20200430133206/Screenshot-2020-04-30-at-1.30.45-PM.png)
 
 
